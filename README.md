@@ -20,4 +20,4 @@ To use the website, simply open the index.html file in a web browser. You can us
 The website was created as a project for the Odin Project curriculum, with the HTML and CSS code written by Tanay Tiwari. The images used in the website were sourced from various online platforms and are credited to their respective owners.
 
 ## License
-This project is licensed under the MIT License. Feel free to use and modify the code as per your requirements.
+Feel free to use and modify the code as per your requirements.
