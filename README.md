@@ -1,4 +1,4 @@
-##the-landing-page
+## the-landing-page
 
 Cinephile is a website for movie enthusiasts who want to explore and share their love for cinema. The website features a curated list of top movie picks, along with quotes, recommendations, and a contact form for users to share their feedback and suggestions.
 
